@@ -6,7 +6,7 @@ Once finished, because of the size of the .vdi file of the VM, which was about i
 
 My bad, should have made a backup.
 
-However, the following snapshot if proof that the project was succesfully done:
+However, the following snapshot is proof that the project was succesfully done:
 <img width="722" alt="Captura de pantalla 2024-09-02 a las 23 07 48" src="https://github.com/user-attachments/assets/99eafa0e-2b80-4457-8a05-592abcbb950c">
 
 
